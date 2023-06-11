@@ -6,6 +6,9 @@ A fully functional e-commerce website built using Node.js, HTML, CSS, Bootstrap,
 
 ![FINAL_CATALOG](https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/e31279f6-01cb-41ff-b7cf-4a4c3a9fb859)
 
+![custome table hamza](https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/e64c688f-55fe-44c1-b7dc-732b45b7963b)
+![after add to cart now sql product](https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/1a0b8c43-0426-4505-92aa-1ce6de4f60a4)
+
 <h1>Features</h1>
 <li>User-friendly interface with a responsive design using Bootstrap
 <li>Dynamic product listing and search functionality
