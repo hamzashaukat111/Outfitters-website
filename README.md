@@ -2,6 +2,9 @@
 Created A Outfitters ecommerce website 
 A fully functional e-commerce website built using Node.js, HTML, CSS, Bootstrap, JavaScript and a live connection to an Oracle database for CRUD operations. The website allows users to Create Account, Securely Login with those Credentials, browse and purchase products, add items to their cart, and proceed to checkout. The project also includes a back-end for managing products, orders, and customer information. There is a different login section for Employee Loggin where with secure loggin password manager can ADD, VIEW, UPDATE or DELETE Employee Database. 
 
+
+https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/d2ba74d6-bfae-44d9-99ae-42d2c0d1ff26
+
 ![FireShot home](https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/f1a70fe4-059a-4c1f-b12e-271afcb0210b)
 
 ![FINAL_CATALOG](https://github.com/hamzashaukat111/Outfitters-website/assets/75229817/e31279f6-01cb-41ff-b7cf-4a4c3a9fb859)
